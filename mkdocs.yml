@@ -3,3 +3,40 @@ site_url: https://Palpatine666666.github.io
 site_author: 帕尔帕廷
 theme:
   name: material
+  language: zh
+  custom_dir: docs/overrides
+  features:
+    - navigation.footer
+    - search.highlight
+    - search.suggest
+    - search.share
+    - content.footnote.tooltips
+  plugins:
+    - search
+    - glightbox:
+        touchNavigation: true
+        loop: false
+        effect: zoom
+        slide_effect: slide
+        width: 100%
+        height: auto
+        zoomable: true
+        draggable: true
+        skip_classes:
+          - custom-skip-class-name
+        auto_caption: false
+        caption_position: bottom
+        background: white
+        shadow: true
+        manual: false
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - footnotes
+    
+nav:
+  - 主页: index.md
+  - 关于: about.md
+  - 中洲: 
+    - 昆雅语: Note of Speak Elf Yourself.md
