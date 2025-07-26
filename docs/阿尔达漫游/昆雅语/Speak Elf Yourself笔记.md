@@ -13,4 +13,7 @@ Speak Elf Yourself是Helge Kåre Fauskanger自2024年起发布在YouTube上的�
 ## 1
 出现在标题Speak Elf Yourself周围的安那塔体的滕格瓦字母分别为Quenya、Eldarin和Arcastaro Endo Lambë。
 
-![Quenya.png](Images/Wandering_in_Arda/Quenya/Speak_Elf_Yourself_Notes/1/Quenya.png)
+<span style="font-family: Tengwar Annatar, serif;">zJ5#Ì</span>
+
+![Quenya.png](ImagesSpeakElfYourselfNotes/1/Quenya.png =300x)
+<img src="Images_Speak_Elf_Yourself_Notes/1/Quenya.png" width="300" height="auto" alt="Quenya.png">

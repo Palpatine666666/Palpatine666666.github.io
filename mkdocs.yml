@@ -13,4 +13,5 @@ nav:
   - Home: index.md
   - Tec: Mkdocs部署.md
   - 阿尔达漫游: 
-    - 昆雅语: "阿尔达漫游/昆雅语/Speak Elf Yourself笔记.md"
+    - 昆雅语: 
+      -"Speak Elf Yourself笔记": "阿尔达漫游/昆雅语/Speak Elf Yourself笔记.md"
