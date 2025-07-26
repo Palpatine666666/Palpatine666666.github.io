@@ -1,6 +1,14 @@
 site_name: 帕尔帕廷的网站
 site_url: https://Palpatine666666.github.io
 site_author: 帕尔帕廷
-theme:
+
+#主题
+theme:  
   name: material
   language: zh
+  custom_dir: docs/overrides  #主题部分覆写
+
+#导航
+nav:
+  - Home: index.md
+  - Tec: Mkdocs部署.md
