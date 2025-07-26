@@ -1,4 +1,5 @@
-##### Mkdocs配置
+# Mkdocs部署
+###### Mkdocs配置
 安装mkdocs
 ```powershell
 pip install mkdocs-material
@@ -83,6 +84,7 @@ Github Repository/setings/Actions/General/Workflow permissions
 Github Repository/setings/Pages/Build and deployment/Branch
 
 选择
+
 - gh-pages
 
 

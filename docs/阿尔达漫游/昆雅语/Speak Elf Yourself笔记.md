@@ -8,15 +8,18 @@ Speak Elf Yourself是Helge Kåre Fauskanger自2024年起发布在YouTube上的�
 # 我的笔记
 
 ## 说明
+Speak Elf Yourself相比于文字课程并不容易记忆，所以我记录了要点和单词，方便复习和查阅。
 
 ## 1
-封面
+##### 封面
 
 出现在标题Speak Elf Yourself周围的安那塔体的滕格瓦字母分别为Quenya、Eldarin和Arcastaro endo lambë。
 
-<span style="font-family: Tengwar Annatar, serif;">zJ5#Ì</span>、<span style="font-family: Tengwar Annatar, serif;">\`Vm#7T5</span>、<span style="font-family: Tengwar Annatar, serif;">\`C6aD81E7Y `V2^ j#w$</span>
+<span style="font-family: Tengwar Annatar, serif;">zJ5#Ì</span>、<span style="font-family: Tengwar Annatar, serif;">`Vm#7T5</span>、<span style="font-family: Tengwar Annatar, serif;">`C6aD81E7Y `V2^ j#w$</span>
 
-其中Arcastar是Tolkien的昆雅语版本。
+其中，Arcastar是Tolkien的昆雅语版本。
 
 （暂时不需要知道的：endo可能是enda的属格，连起来意思就是language of Tolkien's heart。）
+
+Quenya
 
