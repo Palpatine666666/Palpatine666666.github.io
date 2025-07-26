@@ -74,11 +74,14 @@ jobs:
 
 ###### github配置
 Github Repository/setings/Actions/General/Workflow permissions
+
 勾选
+
 - Read and write permissions
 - Allow GitHub Actions to create and approve pull requests
 
 Github Repository/setings/Pages/Build and deployment/Branch
+
 选择
 - gh-pages
 
