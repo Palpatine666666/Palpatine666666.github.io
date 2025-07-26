@@ -9,5 +9,8 @@ theme:
 
 #导航
 nav:
+  - 主页: "主页.md"
   - Home: index.md
   - Tec: Mkdocs部署.md
+  - 阿尔达漫游: 
+    - 昆雅语: "阿尔达漫游/昆雅语/Speak Elf Yourself笔记.md"
