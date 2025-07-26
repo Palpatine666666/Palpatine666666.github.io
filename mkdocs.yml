@@ -6,7 +6,6 @@ site_author: 帕尔帕廷
 theme:  
   name: material
   language: zh
-  custom_dir: docs/overrides  #主题部分覆写
 
 #导航
 nav:
