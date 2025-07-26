@@ -1,17 +1,106 @@
 site_name: 帕尔帕廷的全息记录仪
 site_url: https://Palpatine666666.github.io
 site_author: 帕尔帕廷
+repo_name: Palpatine666666  #存储库名称，一般自动设置
+repo_url: https://github.com/Palpatine666666/Palpatine666666.github.io  #存储库URL
+copyright: Copyright &copy; 2025 <a href="https://github.com/Palpatine666666"  target="_blank" rel="noopener">Palpatine666666</a>
 
 #主题
 theme:  
   name: material
   language: zh
+  icon: 
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.tracking
+    - navigation.top
+    # - search.suggest
+    - search.highlight
+    - content.code.copy
+
+  # 字体（后有css）
+  font: 
+    text: SimSun
+    code: Consolas
+    
+  # 配色方案：默认模式
+  palette:  
+    # 浅色模式
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+ 
+    # 深色模式
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  #插件
+  markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 4
+  - meta
+  - def_list
+  - attr_list
+  - md_in_html
+  - sane_lists
+  - admonition
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.magiclink
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.smartsymbols  #智能符号
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.arithmatex:
+      generic: true
+
+#搜索
+plugins:
+  - changelog
+  - search
+  - git-revision-date-localized:
+      type: datetime
+      timezone: Asia/Shanghai
+      locale: zh
+      enable_creation_date: true
+
+#css
+extra_css: 
+  - css/fonts.css #字体设置英文Times New Roman，中文宋体
+
+#底部
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Palpatine666666
+
 
 #导航
 nav:
-  - 主页: "主页.md"
-  - Home: index.md
-  - Tec: Mkdocs部署.md
+  - 主页: 
+    - index.md
+    - 更新记录: changelog.md
   - 阿尔达漫游: 
     - 昆雅语: 
       - Speak Elf Yourself笔记: "阿尔达漫游/昆雅语/Speak Elf Yourself笔记.md"
+    - 阿尔达野史: "阿尔达漫游/阿尔达野史.md"
+  - 异星歧途: Mkdocs部署.md
+  
