@@ -9,7 +9,11 @@ copyright: Copyright &copy; 2025 <a href="https://github.com/Palpatine666666"  t
 theme:  
   name: material
   language: zh
+  #图标
+  logo: assets/octagram-white.svg
+  favicon: assets/octagram.svg
   icon: 
+    repo: fontawesome/brands/empire
   custom_dir: overrides
   features:
     - header.autohide
@@ -31,27 +35,32 @@ theme:
   palette:  
     # 浅色模式
     - scheme: default
+      accent: deep purple
       toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
+        icon: fontawesome/brands/sith
+        name: Dark side
  
     # 深色模式
     - scheme: slate
+      accent: deep purple
       toggle:
-        icon: material/weather-night
-        name: Switch to light mode
+        icon: fontawesome/brands/jedi
+        name: Light side
 
   #插件
   markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 5
+  - footnotes
   - meta
   - def_list
   - attr_list
   - md_in_html
   - sane_lists
   - admonition
+  - abbr
+  - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
@@ -59,7 +68,7 @@ theme:
   - pymdownx.details
   - pymdownx.snippets
   - pymdownx.magiclink
-  - pymdownx.superfences
+  - pymdownx.superfences  # 代码块高亮插件
   - pymdownx.inlinehilite
   - pymdownx.smartsymbols  #智能符号
   - pymdownx.emoji:
@@ -69,9 +78,11 @@ theme:
       alternate_style: true 
   - pymdownx.tasklist:
       custom_checkbox: true
-  - pymdownx.highlight:
+  - pymdownx.highlight: #代码块高亮
       anchor_linenums: true
-  - pymdownx.arithmatex:
+      auto_title: true # 显示编程语言名称
+      # linenums: true # 显示行号
+  - pymdownx.arithmatex:  #LaTeX支持
       generic: true
 
 #搜索
@@ -80,16 +91,32 @@ plugins:
       lang:
         - zh
         - en
+  - tags
+  - git-revision-date-localized:
+      enabled: true
+      type: date
+      locale: zh
+      exclude:
+        - index.md
+  - open-in-new-tab:
+#java
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 #css
 extra_css: 
   - css/fonts.css #字体设置英文Times New Roman，中文宋体
 
-#底部
+#
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Palpatine666666
+  analytics:
+    provider: google
+    property: G-0CRMN4K682
+  
 
 
 #导航

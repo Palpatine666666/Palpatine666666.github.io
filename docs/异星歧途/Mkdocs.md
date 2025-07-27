@@ -1,5 +1,5 @@
 # Mkdocs部署
-###### Mkdocs配置
+### Mkdocs配置
 安装mkdocs
 ```powershell
 pip install mkdocs-material
@@ -26,12 +26,12 @@ mkdocs build
 mkdocs serve
 ```
 
-##### SSH配置
+### SSH配置
 ```powershell
 git remote set-url origin git@github.com:Palpatine666666/Palpatine666666.github.io.git
 ```
 
-##### workflows配置
+### workflows配置
 ```powershell
 cd D:\Program Files\Git-Repository\username.github.io
 mkdir .github
@@ -73,7 +73,7 @@ jobs:
       - run: mkdocs gh-deploy --force
 ```
 
-###### github配置
+### github配置
 Github Repository/setings/Actions/General/Workflow permissions
 
 勾选
@@ -88,12 +88,12 @@ Github Repository/setings/Pages/Build and deployment/Branch
 - gh-pages
 
 
-##### 部署
-###### 手动部署
+### 部署
+#### 手动部署
 ```powershell
 mkdocs gh-deploy --force
 ```
-###### workflows
+##### workflows
 ```powershell
 git add .
 git commit -m "Update"
