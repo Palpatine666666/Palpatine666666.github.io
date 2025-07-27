@@ -128,17 +128,20 @@ nav:
       - 收藏夹: 
         - 主页/收藏夹/index.md
         - 托尔金相关: 主页/收藏夹/托尔金相关.md
-  - 阿尔达漫游:
+  - 阿尔达:
     - 昆雅语:
+      - Quenya Course:
+        - 阿尔达/昆雅语/Quenya Course/index.md
+        - intro: 阿尔达/昆雅语/Quenya Course/绪论.md
       - Speak Elf Yourself: 
-        - 阿尔达漫游/昆雅语/Speak Elf Yourself/index.md
-        - Part 1: 阿尔达漫游/昆雅语/Speak Elf Yourself/Part 1.md
-        - Part 2: 阿尔达漫游/昆雅语/Speak Elf Yourself/Part 2.md
+        - 阿尔达/昆雅语/Speak Elf Yourself/index.md
+        - Part 1: 阿尔达/昆雅语/Speak Elf Yourself/Part 1.md
+        - Part 2: 阿尔达/昆雅语/Speak Elf Yourself/Part 2.md
     - 阿尔达野史:
-      - 阿尔达漫游/阿尔达野史/index.md
-      - 万恶之源: 阿尔达漫游/阿尔达野史/万恶之源.md
-      - 礼崩乐坏: 阿尔达漫游/阿尔达野史/礼崩乐坏.md
-      - 断章取义: 阿尔达漫游/阿尔达野史/断章取义.md
+      - 阿尔达/阿尔达野史/index.md
+      - 万恶之源: 阿尔达/阿尔达野史/万恶之源.md
+      - 礼崩乐坏: 阿尔达/阿尔达野史/礼崩乐坏.md
+      - 断章取义: 阿尔达/阿尔达野史/断章取义.md
   - 异星歧途:
     - 异星歧途/index.md
     - Mkdocs部署: 异星歧途/Mkdocs.md

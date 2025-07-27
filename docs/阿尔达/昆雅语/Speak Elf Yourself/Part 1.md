@@ -126,7 +126,9 @@ stars.
 原始精灵语Balaroukō>昆雅语Valarauco>辛达语Balrog。
 
 ## 5
-加拉德瑞尔：Ma quetil Quenya?
+加拉德瑞尔的昆雅语：<span style="font-family: Tengwar Annatar, serif;">t# zR1Tj zR5Ì#À</span>
+
+转写过来是：Ma quetil Quenya?
 
 意思可能是：Do you speak any Quenya? 
 
