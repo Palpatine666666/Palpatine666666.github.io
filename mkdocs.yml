@@ -1,4 +1,4 @@
-site_name: 全息记录仪 | 帕尔帕廷的网站
+site_name: 帕尔帕廷的全息记录仪
 site_description: 搭建中
 site_url: https://Palpatine666666.github.io
 site_author: 帕尔帕廷
@@ -17,8 +17,8 @@ theme:
     repo: fontawesome/brands/empire
   custom_dir: overrides
   features:
-    - header.autohide
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.indexes
     - navigation.tracking
     - navigation.top
@@ -128,7 +128,11 @@ nav:
       - 收藏夹: 主页/常用/收藏夹.md
   - 阿尔达漫游:
     - 昆雅语:
-      - Speak Elf Yourself笔记: 阿尔达漫游/昆雅语/Speak Elf Yourself笔记.md
+      - Speak Elf Yourself: 
+        - 阿尔达漫游/昆雅语/Speak Elf Yourself/index.md
+        - Part 1: 阿尔达漫游/昆雅语/Speak Elf Yourself/Part 1.md
+        - Part 2: 阿尔达漫游/昆雅语/Speak Elf Yourself/Part 2.md
+      - Quenya Course:
     - 阿尔达野史:
       - 阿尔达漫游/阿尔达野史/index.md
       - 万恶之源: 阿尔达漫游/阿尔达野史/万恶之源.md
