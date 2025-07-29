@@ -3,8 +3,7 @@ title: Speak Elf Yourself - Part 1
 comments: true
 counter: true
 ---
-# Part 1
-
+# Part 1 Introduction
 [Speak Elf Yourself - Part 1](https://www.youtube.com/watch?v=ClhMTBoDtJQ&list=PLpRrGdALEBTVeGyy2AQop_piuG9hJ5P0d&index=2)
 ### 1
 出现在标题Speak Elf Yourself周围的安那塔体滕格瓦字母
@@ -15,7 +14,7 @@ counter: true
 
 分别为Quenya、Eldarin和Arcastaro endo lambë。
 
-其中，Arcastaro endo lambë意思是language of Tolkien's heart（将会在本视频后面听到）。
+其中，Arcastaro endo lambë意思是language of Tolkien's heart。
 ### 2
 出现在《魔戒》第398页的诗歌是[Namárië](https://lotr.huijiwiki.com/wiki/%E5%8A%A0%E6%8B%89%E5%BE%B7%E7%91%9E%E5%B0%94%E7%9A%84%E6%8C%BD%E6%AD%8C#tab-3)，落叶中的是其用滕格瓦字母书写的版本。
 
@@ -81,9 +80,6 @@ all about trees or
 
 stars.
 
-同样将会在本视频后面听到类似的句子。
-
-
 ### 3
 一些词汇：
 
@@ -107,7 +103,9 @@ stars.
 - Osgiliath
 - Minas Tirith
 
-彼得·杰克逊电影中的辛达语：Fennas Nogothrim, lasto beth lammen!
+彼得·杰克逊电影中的辛达语：Fennas Nogothrim, lasto beth lammen! 
+
+意为：Doorway of the Dwarf-folk, listen to the word of my tongue!
 
 一些昆雅语名字：
 
@@ -121,9 +119,13 @@ stars.
 
 其中Arcastar是Tolkien的昆雅语版本。
 
-彼得·杰克逊电影中的昆雅语：Aiya Eärendil elenion ancalima!
+彼得·杰克逊电影中的昆雅语：Aiya Eärendil elenion ancalima! 
+
+意为：Hail Eärendil brightest of stars!  
 ### 4
 原始精灵语Balaroukō>昆雅语Valarauco>辛达语Balrog。
+
+（莱格拉斯在彼得·杰克逊电影中的台词“A Balrog of Morgoth”听起来真的很奇怪，为什么不是一句完整的辛达语呢？托尔金的原文“It was a Balrog of Morgoth”看起来还正常一些。）
 
 ## 5
 加拉德瑞尔的昆雅语：<span style="font-family: Tengwar Annatar, serif;">t# zR1Tj zR5Ì#À</span>
@@ -136,4 +138,5 @@ stars.
 
 ## 6
 片尾曲是Helge作词的[Silmessë](https://tolkiengateway.net/wiki/Silmesse)。
+
 
