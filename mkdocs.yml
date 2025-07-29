@@ -100,22 +100,7 @@ plugins:
       exclude:
         - index.md
   - open-in-new-tab:
-  - glightbox:            # 启用 glightbox 插件，让图片点击后弹出灯箱
-        touchNavigation: true   # 手机端可以用手势滑动/切换
-        loop: false            # 播放到最后一张后不再循环回到第一张
-        effect: zoom           # 图片出现的动画：缩放
-        slide_effect: slide    # 图片切换动画：滑动
-        width: 100%            # 灯箱默认宽度占满屏幕
-        height: auto           # 高度自适应
-        zoomable: true         # 允许在灯箱里再双击放大
-        draggable: true        # 允许鼠标拖拽图片
-        skip_classes:
-          - custom-skip-class-name  # 带有这个 class 的图片不会启用灯箱
-        auto_caption: false        # 不自动把图片 alt/title 当说明文字
-        caption_position: bottom   # 若有说明文字，放在底部
-        background: white          # 灯箱背景色
-        shadow: true               # 显示阴影
-        manual: false  
+   
 #java
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
