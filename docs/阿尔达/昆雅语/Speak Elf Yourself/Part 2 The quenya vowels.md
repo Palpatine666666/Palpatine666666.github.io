@@ -62,6 +62,7 @@ ohloni“diphthongs”
 元音上的两点表示分音符号，词尾-e上的两点表示仍然要发音。
 
 一些分音符号的例子：
+
 - Eärendil
 - Manwë
 - Eönwë
