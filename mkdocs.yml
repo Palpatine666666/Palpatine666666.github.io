@@ -103,14 +103,17 @@ plugins:
    
 #java
 extra_javascript:
-  - javascripts/katex.js
-  - https://unpkg.com/katex@0/dist/katex.min.js
-  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+  #- javascripts/katex.js
+  #- https://unpkg.com/katex@0/dist/katex.min.js
+  #- https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 #css
 extra_css: 
   - css/fonts.css #字体设置英文Times New Roman，中文宋体
-  - https://unpkg.com/katex@0/dist/katex.min.css
+  #- https://unpkg.com/katex@0/dist/katex.min.css
+
 #
 extra:
   social:

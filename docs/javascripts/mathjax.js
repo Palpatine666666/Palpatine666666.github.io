@@ -1,7 +1,7 @@
 window.MathJax = {
   tex: {
-    inlineMath: [["$", "$"]],
-    displayMath: [["$$", "$$"]],
+    inlineMath: [ ['$','$'], ['\\(','\\)'] ],   // 把 $ 放在最前面
+    displayMath: [ ['$$','$$'], ['\\[','\\]'] ],
     processEscapes: true,
     processEnvironments: true
   },
