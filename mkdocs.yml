@@ -109,7 +109,7 @@ extra_javascript:
 #css
 extra_css: 
   - css/fonts.css #字体设置英文Times New Roman，中文宋体
-  - https://unpkg.com/katex@0/dist/katex.min.css  #katex
+
 #
 extra:
   social:
