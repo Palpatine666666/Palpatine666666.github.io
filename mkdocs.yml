@@ -105,11 +105,14 @@ plugins:
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/katex.js  #katex
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 
 #css
 extra_css: 
   - css/fonts.css #字体设置英文Times New Roman，中文宋体
-
+  - https://unpkg.com/katex@0/dist/katex.min.css  #katex
 #
 extra:
   social:
