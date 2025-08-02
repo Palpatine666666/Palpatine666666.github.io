@@ -11,8 +11,8 @@ theme:
   name: material
   language: zh
   #图标
-  logo: assets/octagram-white.svg
-  favicon: assets/octagram.svg
+  logo: assets/images/octagram-white.svg
+  favicon: assets/images/octagram.svg
   icon: 
     repo: fontawesome/brands/empire
   custom_dir: overrides
@@ -104,7 +104,7 @@ plugins:
    
 #java
 extra_javascript:
-  - javascripts/katex.js
+  - assets/javascripts/katex.js
   - https://unpkg.com/katex@0/dist/katex.min.js
   - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
   - https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/mathtex-script-type.min.js
@@ -113,7 +113,7 @@ extra_javascript:
 
 #css
 extra_css: 
-  - css/fonts.css #字体设置英文Times New Roman，中文宋体
+  - assets/stylesheets/fonts.css #字体设置英文Times New Roman，中文宋体
   - https://unpkg.com/katex@0/dist/katex.min.css
 
 #
