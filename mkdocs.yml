@@ -17,6 +17,7 @@ theme:
     repo: fontawesome/brands/empire
   custom_dir: overrides
   features:
+    - header.autohide
     - navigation.tabs
     #- navigation.tabs.sticky
     - navigation.indexes
@@ -106,6 +107,7 @@ extra_javascript:
   - javascripts/katex.js
   - https://unpkg.com/katex@0/dist/katex.min.js
   - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+  - https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/mathtex-script-type.min.js
   #- javascripts/mathjax.js
   #- https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
