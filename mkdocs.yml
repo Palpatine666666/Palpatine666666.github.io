@@ -18,11 +18,11 @@ theme:
   custom_dir: overrides
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
+    #- navigation.tabs.sticky
     - navigation.indexes
     - navigation.tracking
     - navigation.top
-    # - search.suggest
+    #- search.suggest
     - search.highlight
     - content.code.copy
     - content.code.annotate
