@@ -23,10 +23,12 @@ theme:
     - navigation.indexes
     - navigation.tracking
     - navigation.top
+    - navigation.footer
     #- search.suggest
     - search.highlight
     - content.code.copy
     - content.code.annotate
+    - content.footnote.tooltips
 
   # 字体（后有css）
   font: 
