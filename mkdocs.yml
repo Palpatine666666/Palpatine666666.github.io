@@ -15,7 +15,7 @@ theme:
   favicon: assets/images/octagram.svg
   icon: 
     repo: fontawesome/brands/empire
-  custom_dir: overrides
+  custom_dir: docs/overrides
   features:
     - header.autohide
     - navigation.tabs
@@ -141,6 +141,8 @@ nav:
       - Quenya Course:
         - 阿尔达/昆雅语/Quenya Course/index.md
         - intro: 阿尔达/昆雅语/Quenya Course/绪论.md
+        - lesson 1: 阿尔达/阿尔达/昆雅语/Quenya Course/第一课.md
+        - keys: 阿尔达/昆雅语/Quenya Course/答案.md
       - Speak Elf Yourself: 
         - 阿尔达/昆雅语/Speak Elf Yourself/index.md
         - Part 1 Introduction: 阿尔达/昆雅语/Speak Elf Yourself/Part 1 Introduction.md
@@ -155,6 +157,5 @@ nav:
   - 异星歧途:
     - 异星歧途/index.md
     - Mkdocs部署: 异星歧途/Mkdocs.md
-  - 数学笔记:
-      - 分析: 数学笔记/分析.md
+
 
