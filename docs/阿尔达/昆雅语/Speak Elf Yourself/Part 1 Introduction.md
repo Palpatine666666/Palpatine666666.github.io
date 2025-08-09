@@ -1,7 +1,6 @@
 ---
 title: Speak Elf Yourself - Part 1
 comments: true
-counter: true
 ---
 # Part 1 Introduction
 [Speak Elf Yourself - Part 1](https://www.youtube.com/watch?v=ClhMTBoDtJQ&list=PLpRrGdALEBTVeGyy2AQop_piuG9hJ5P0d&index=2)

@@ -1,9 +1,8 @@
 ---
 title: Speak Elf Yourself - Part 3
 comments: true
-counter: true
 ---
-# Part 3
+# Part 3 Plurals and special stem-forms
 ### 1
 出现在开头的句子
 

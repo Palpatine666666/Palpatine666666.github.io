@@ -1,7 +1,6 @@
 ---
 title: Speak Elf Yourself - Part 2
 comments: true
-counter: true
 ---
 # Part 2 The quenya vowels
 [Speak Elf Yourself - Part 2](https://www.youtube.com/watch?v=IgepeTpRJKo&list=PLpRrGdALEBTVeGyy2AQop_piuG9hJ5P0d&index=3)
